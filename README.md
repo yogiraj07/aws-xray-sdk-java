@@ -4,6 +4,7 @@
 
 ![Screenshot of the AWS X-Ray console](/images/example_servicemap.png?raw=true)
 
+
 ## Installing
 
 The AWS X-Ray SDK for Java is compatible with Java 8 and above.
